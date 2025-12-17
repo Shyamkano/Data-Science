@@ -1,4 +1,4 @@
-# Data Science Practicals
+# Data Science 
 
 A comprehensive collection of hands-on Python exercises covering fundamental to advanced data science concepts using real-world datasets.
 
@@ -140,7 +140,7 @@ These techniques are fundamental for:
 
 ---
 
-**Author:** Shobit Halse
+**Author:** Ghanshyam Kanojiya
 **Institution:** Sheth L.U.J. & Sir M.V. College Of Arts, Science & Commerce
 
 ---
